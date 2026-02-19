@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Sitemap (update to deployed URL when available)
+Sitemap: http://localhost:4173/sitemap.xml
+
+
+
+
+
